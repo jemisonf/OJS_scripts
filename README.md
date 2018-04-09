@@ -2,7 +2,7 @@
 
 ## Dependancies
 
-Uses python 2.7, pdfminer 20140328 and PyPDF2 1.26.0.
+Uses python 2.7, pdfminer 20140328 and PyPDF2 1.26.0. See jemisonf/OJS_files for a some example files to test this on.
 
 ## Purpose
 
